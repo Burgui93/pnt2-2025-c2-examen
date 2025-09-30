@@ -40,3 +40,6 @@ Si ya terminaste o si son las 10:00 asegurate de seguir los siguientes pasos par
 1. Realizar un commit a tu repo con un mensaje con tu nombre completo
 2. Realizar un push a tu repositorio
 3. Realizar un pull request a mi repositorio
+
+Usuario: user1@ort.edu.ar
+Pass: abc123
